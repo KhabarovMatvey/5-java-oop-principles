@@ -37,5 +37,4 @@ stages:
 Задача 4:
   <<: *verify
   variables:
-    TASK: task03
-
+    TASK: task04
